@@ -34,7 +34,7 @@ Program to implement Ridge, Lasso, and ElasticNet regularization using pipelines
 Developed by: Tharun N
 RegisterNumber:  212225240173
 */
-```
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -124,6 +124,7 @@ plt.xticks(rotation=45)
 # Show the plots
 plt.tight_layout()
 plt.show()
+~~~
 ## Output:
 ![alt text](<Screenshot 2026-02-24 131828.png>)
 ![alt text](<Screenshot 2026-02-24 131914.png>)
